@@ -110,13 +110,13 @@
             <!-- The slideshow -->
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="./SliderImages/slider03.jpeg" alt="">
+                    <img src="./SliderImages/slider03.jpeg" alt="one slider image of mathura inter college">
                 </div>
                 <div class="carousel-item">
-                    <img src="./SliderImages/slider04.png" alt="">
+                    <img src="./SliderImages/slider04.png" alt="second slider image of mathura inter college">
                 </div>
                 <div class="carousel-item">
-                    <img src="./SliderImages/slider01.jpeg" alt="">
+                    <img src="./SliderImages/slider01.jpeg" alt="third slider image of mathura inter college">
                 </div>
             </div>
 
@@ -151,7 +151,7 @@
                       
                     </div>
                     <div class="offset-md-1 col-xs-12  col-lg-4 about-img p-4">
-                        <img src="./SliderImages/slider04.png" class="img-fluid img-thumbnail" />
+                        <img src="./SliderImages/slider04.png" class="img-fluid img-thumbnail"  alt="fourth slider image of mathura inter college" />
                         
                     </div>
                 </div>
@@ -198,7 +198,7 @@
                 <div class="card-body">
                     <div class="row ">
                         <div class="col-sm-4 p-5 text-center">
-                            <img src="./images/principal01.png" class="img-fluid img-thumbnail" />
+                            <img src="./images/principal01.png" class="img-fluid img-thumbnail"  alt="Principal of Mathura Inter College/>
                             <br />
                             <strong class="text-uppercase text-center text-uppercase"> shivmangal yadav</strong>
                             <p class="text-uppercase">(m.a, b.ed)</p>
@@ -289,21 +289,21 @@
                     <div class="col-12 col-sm-6 col-md-4">
                         <div class="thumbox">
                             <a href="javascript:void">
-                                <img src="./images/img.jpeg" alt="" />
+                                <img src="./images/img.jpeg" alt="College ground photo" />
                             </a>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 col-md-4">
                         <div class="thumbox">
                             <a href="javascript:void">
-                                <img src="./images/g1.jpg" alt="" />
+                                <img src="./images/g1.jpg" alt="college classes photo" />
                             </a>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 col-md-4">
                         <div class="thumbox">
                             <a href="javascript:void">
-                                <img src="./images/img1.jpeg" alt="" />
+                                <img src="./images/img1.jpeg" alt="libraryof mathura inter college" />
                             </a>
                         </div>
                     </div>
@@ -382,7 +382,7 @@
                         </div>
                         <div class="col-md-4 py-2">
                             <h3 class="col3 mb-2 bg-light" style="width: 60%; border-radius: 10px">
-                                <img src="./images/logo.png" /></h3>
+                                <img src="./images/logo.png" alt="logo of mathura inter college,ballia"/></h3>
                             <address class="mb-2">
                                 <p class="mb-2"><i class="mr-1 fa fa-map-marker"></i>गौरा पतोई,बलिया</p>
                                 <h6 ><i class="fa mr-1 fa-phone pt-1"></i> +91-9795709438,9839755731</h6>
